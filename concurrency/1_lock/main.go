@@ -5,6 +5,7 @@ import (
 	"sync"
 )
 
+// LOCK AND UNLOCK
 var (
 	balance int = 100
 )

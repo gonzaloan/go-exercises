@@ -65,7 +65,6 @@ func NewService() *Service {
 		IsPending:  make(map[int][]chan int),
 	}
 }
-
 func main() {
 	service := NewService()
 	jobs := []int{3, 4, 5, 5, 4, 8, 8, 8}

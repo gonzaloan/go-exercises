@@ -25,6 +25,9 @@ Allow us to create a "Factory" of objects from a base class and implement polymo
 Allow us to handle and restrict only one instance of a class. An example of its use, is to create database connections, and avoid creating multiple connections.
 ### 2) Estructural
 Establish mechanisms of how create objects in larger structures without losing flexibility and reusability. Example: Adapter
+
+#### Adapter
+Allows to adapt the behaviour of a struct to an interface when there's incompatibility, without the need to change code. 
 ### 3) Behavioral
 Establish mechanisms of effective communication between objects and the assignation of responsibilities. Examples: Observer and Strategy
 

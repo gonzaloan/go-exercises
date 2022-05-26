@@ -29,7 +29,8 @@ Establish mechanisms of how create objects in larger structures without losing f
 #### Adapter
 Allows to adapt the behaviour of a struct to an interface when there's incompatibility, without the need to change code. 
 ### 3) Behavioral
-Establish mechanisms of effective communication between objects and the assignation of responsibilities. Examples: Observer and Strategy
+#### Observer
+Allows objects to subscribe to another element to be notified about an event.
 
 
 ## Net

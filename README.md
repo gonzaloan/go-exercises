@@ -30,8 +30,9 @@ Establish mechanisms of how create objects in larger structures without losing f
 Allows to adapt the behaviour of a struct to an interface when there's incompatibility, without the need to change code. 
 ### 3) Behavioral
 #### Observer
-Allows objects to subscribe to another element to be notified about an event.
+Allow objects to subscribe to another element to be notified about an event.
 
-
+#### Strategy
+Allows setting a family of similar functions on a base class. Part of SOLID
 ## Net
 
